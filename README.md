@@ -35,13 +35,13 @@ Easy: Slower speed, more time to react.
 Medium: Moderate speed.
 Hard: Fast speed, more challenging.
 
-License
+## License
 
-This project is open source and free to use. Feel free to or modify it.
+-This project is open source and free to use. Feel free to or modify it.
 
 ## 𝐀𝐮𝐭𝐡𝐨𝐫𝐬
-Arpit Payasi
-Chetan Raghav
-Kush Solanki
-Nishta Vadher
+-Arpit Payasi
+-Chetan Raghav
+-Kush Solanki
+-Nishta Vadher
 
