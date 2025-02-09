@@ -2,7 +2,7 @@
 # Snake Game
 
 This is a simple console-based Snake game implemented in C++ where you control a snake to collect food and grow in size. The game ends when the snake collides with the wall or itself.
-
+ 
 ## Features
 
 - Grid-based gameplay (20x20 grid)
