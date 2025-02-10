@@ -43,5 +43,5 @@ Hard: Fast speed, more challenging.
 -Arpit Payasi
 -Chetan Raghav
 -Kush Solanki
--Nishta Vadher
+-Nishtha Vadher
 
