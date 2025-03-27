@@ -258,7 +258,7 @@ int main() {
      cout << "  ESC         - Quit\n";
      cout << "\n\033[33mPress ENTER to start the game...\033[0m";
      
-     while (_getch() != 13);  // Wait for Enter key (ASCII 13)
+     while (_getch() != 13);
     Game game;
     game.run();
     return 0;
