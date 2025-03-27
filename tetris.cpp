@@ -247,6 +247,18 @@ public:
 
 int main() {
     srand(time(0));
+     system("cls");
+     cout << "\n\n\033[32m===== WELCOME TO TETRIS =====\033[0m\n";
+     cout << "Controls:\n";
+     cout << "  Left Arrow  - Move Left\n";
+     cout << "  Right Arrow - Move Right\n";
+     cout << "  Down Arrow  - Move Down\n";
+     cout << "  Up Arrow    - Rotate\n";
+     cout << "  Space       - Drop Instantly\n";
+     cout << "  ESC         - Quit\n";
+     cout << "\n\033[33mPress ENTER to start the game...\033[0m";
+     
+     while (_getch() != 13);  // Wait for Enter key (ASCII 13)
     Game game;
     game.run();
     return 0;
