@@ -32,3 +32,13 @@ This is a simple terminal-based Tetris game implemented in C++ using object-orie
 1. Open a terminal or command prompt.
 2. Compile the game using:g++ -o tetris tetris.cpp
 3. Run the game using:./tetris
+
+## License
+
+-This project is open source and free to use. Feel free to or modify it.
+
+## 𝐀𝐮𝐭𝐡𝐨𝐫𝐬
+-Arpit Payasi
+-Chetan Raghav
+-Kush Solanki
+-Nishtha Vadher
