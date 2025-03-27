@@ -1,4 +1,4 @@
-# Group-LeCode-Jamee
+# Group-LeCode-James
 # Terminal-Based Tetris Game
 
 This is a simple terminal-based Tetris game implemented in C++ using object-oriented programming (OOP). It includes all standard Tetrimino pieces (I, O, T, S, Z, J, L) and follows the classic Tetris gameplay mechanics.
